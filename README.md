@@ -1,4 +1,4 @@
-### SpaceGame 🛸
+### SpaceGame
 ---
 * Juego con mecanicas basicas de **movimiento** y **disparar** 
 * El tutorial que utilizé es [este](https://www.youtube.com/watch?v=QkOd8nRZB_M)  
@@ -6,5 +6,4 @@
 ---
 * Hasta el momento, son todos los tutoriales que tiene sobre este videojuego
 * Planeo agregarle mas escenas, efectos de sonido, musica, escenas, sistema de puntuacion y vidas, etc
-* En el caso de que ya haya yo subido la V2, te dejo el link al repo aqui
-
+* La V2 esta aqui (aun en proceso)
